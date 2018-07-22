@@ -1,0 +1,11 @@
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\bin\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.deps.json
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\bin\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.runtimeconfig.json
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\bin\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.runtimeconfig.dev.json
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\bin\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.dll
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\bin\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.pdb
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.csprojAssemblyReference.cache
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.csproj.CoreCompileInputs.cache
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.AssemblyInfoInputs.cache
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.AssemblyInfo.cs
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.dll
+D:\PROJETOS\REST\Aulas\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\RestWithAPS-NETUdemy\obj\Debug\netcoreapp2.0\RestWithAPS-NETUdemy.pdb
